@@ -34,7 +34,7 @@
 
 #####  🙃🙃🙃简历筛🙃🙃🙃
 
-2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery)
+2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery) 五月开启
 
 2023-04-29 09:45 [奇安信](https://app.mokahr.com/campus_apply/qianxin/29182?recommendCode=DSjdXX1F#/candidateHome/applications)
 
@@ -44,7 +44,7 @@
 
 2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
 
-2023-04-04 08:54 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)
+2023-04-04 08:54 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications) 3.21投递
 
 2023-04-05 09:20 [知乎](https://app.mokahr.com/campus-recruitment/zhihu/68321#/candidateHome/applications)
 

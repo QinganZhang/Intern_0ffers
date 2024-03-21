@@ -1,10 +1,50 @@
 ##  README
 
 ### 未开启
+
 2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery) 五月开启
 
+2023-04-05 09:20 [知乎](https://app.mokahr.com/campus-recruitment/zhihu/68321#/candidateHome/applications)
+
+2023-04-19 11:36 [三一集团](http://sanycampus.zhiye.com/Portal/Apply/Index)
+
+2023-04-09 12:31 [极智嘉](https://app.mokahr.com/campus_apply/geekplus/98039#/candidateHome/applications)
+
+
+#### 没有合适的岗位
+
+2023-04-04 15:13 [贝壳](https://ke.zhiye.com/Portal/Apply/Index) 
+
+2023-04-04 14:18 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/account.html#/myDeliver)
+
+2023-04-04 10:44 [顺丰](https://campus.sf-express.com/#/personalCenter)
+
+2023-04-13 14:06 [浪潮](https://inspur.hcmcloud.cn/recruit#/progress_detail?id=2585436)
+
+2023-04-04 11:31 [比特大陆(无查询)](https://jobs.bitmain.com.cn/trainee)
+
 ### 已投递
+
 2023-04-04 08:54 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications) 3.21投递
+
+2023-04-03 14:04 [小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
+内推：https://bbs.byr.cn/#!article/ParttimeJob/960829
+
+2023-06-11 09:58 [TCL](http://campus.tcl.com/post/details.html?post_code=103101)
+
+2023-04-09 12:35 [第四范式](https://app.mokahr.com/campus-recruitment/4paradigm/58145?edit=1&hireMode=2#/candidateHome/applications) 
+
+2023-04-04 21:56 [思谋科技](https://app.mokahr.com/campus-recruitment/smartmore/46221#/candidateHome/applications)
+
+2024-03-21 23:32 [网易](https://hr.163.com/job-list.html?workType=1) 
+
+2023-04-21 16:54 [新大陆](https://nlscan.zhiye.com/Portal/Apply/Index)
+
+2023-04-14 15:33 [莉莉丝](https://lilithgames.jobs.feishu.cn/intern/position)
+
+2023-04-05 22:01 [CVTE视源](https://careers.cvte.com/zone/resume/applications)
+
+2023-04-04 10:34 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
 
 ###  其他收藏夹
 
@@ -18,8 +58,6 @@
 
 2023-04-04 10:59 [华为](https://career.huawei.com/reccampportal/portal5/user-index.html)
 
-2023-04-03 14:04 [小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
-
 2023-04-03 16:30 [百度](https://talent.baidu.com/jobs/center)
 
 2023-04-19 11:50 [宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
@@ -28,31 +66,21 @@
 
 2023-05-26 13:51 [奥克斯](https://auxgroup.zhiye.com/Portal/Apply/Index)
 
-2023-04-19 11:36 [三一集团](http://sanycampus.zhiye.com/Portal/Apply/Index)
+
 
 2023-05-19 16:07 [中电福富](http://zhaopin.ffcs.cn:6688/recruitment/frontend-client/index.html#/my-position)
 
 2023-04-22 10:34 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/account.html#/myDeliver)
 
-2023-04-05 22:01 [CVTE视源](https://careers.cvte.com/zone/resume/applications)
-
 
 
 #####  🙃🙃🙃简历筛🙃🙃🙃
-
-
 
 2023-04-29 09:45 [奇安信](https://app.mokahr.com/campus_apply/qianxin/29182?recommendCode=DSjdXX1F#/candidateHome/applications)
 
 2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
 
-2023-04-16 09:55 [网易雷火](https://campus.163.com/app/personal/apply?tab=leihuo)
-
 2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
-
-
-
-2023-04-05 09:20 [知乎](https://app.mokahr.com/campus-recruitment/zhihu/68321#/candidateHome/applications)
 
 2023-04-03 16:33 [360](https://360campus.zhiye.com/personal/deliveryRecord)
 
@@ -62,37 +90,19 @@
 
 2023-04-04 09:03 [小红书](https://job.xiaohongshu.com/record/intern)
 
-2023-04-04 10:44 [顺丰](https://campus.sf-express.com/#/personalCenter)
-
 2023-04-04 11:47 [旷视MEGVII](https://app.mokahr.com/campus-recruitment/megviihr/38642#/candidateHome/applications)
 
-2023-04-04 14:18 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/account.html#/myDeliver)
-
-2023-04-04 15:13 [贝壳](https://ke.zhiye.com/Portal/Apply/Index)
-
-2023-04-04 21:56 [思谋科技](https://app.mokahr.com/campus-recruitment/smartmore/46221#/candidateHome/applications)
-
 2023-04-05 08:50 [虎牙直播](https://app.mokahr.com/campus_apply/huya/4112#/candidateHome/applications)
-
-2023-04-09 12:31 [极智嘉](https://app.mokahr.com/campus_apply/geekplus/98039#/candidateHome/applications)
-
-2023-04-09 12:35 [第四范式](https://app.mokahr.com/campus-recruitment/4paradigm/58145?edit=1&hireMode=2#/candidateHome/applications)
 
 2023-04-09 12:47 [MiniMax](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/application?token=MzsxNjc3MjMzNzU1MTA4OzcxNDI1ODYwNzk3MjY3OTY4Mjg7MA)
 
 2023-04-11 13:54 [锐捷网络](https://app.mokahr.com/campus_apply/ruijie/99942?code=051zPN100ieTtP1iE3200Ndw5Q2zPN1x&state=personalCenter#/candidateHome/applications)
-
-2023-04-13 14:06 [浪潮](https://inspur.hcmcloud.cn/recruit#/progress_detail?id=2585436)
-
-2023-04-14 15:33 [莉莉丝](https://lilithgames.jobs.feishu.cn/referral/campus/position/application?token=NTsxNjc4MzY5OTI2NzA1OzcwNTI5NjgxNjIzMjYyNDk0NzQ7NzIwODU0MjYxOTk0NTEwOTc3MQ)
 
 2023-04-16 09:43 [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/candidateHome/applications)
 
 2023-04-20 09:01 [良品铺子](https://lppz.zhiye.com/personal/deliveryRecord)
 
 2023-04-21 16:47 [文远知行WeRide](https://app.mokahr.com/campus_apply/jingchi/2137#/candidateHome/applications)
-
-2023-04-21 16:54 [新大陆](https://nlscan.zhiye.com/Portal/Apply/Index)
 
 2023-04-20 08:35 [NVIDIA](https://app.mokahr.com/campus_apply/nvidia/47111?sourceToken=5ff66e7f4a5d4fdb26884ea6e98b9402#/candidateHome/applications)
 
@@ -178,7 +188,7 @@
 
 2023-06-11 08:39 [清华同衡](http://www.thupdi.com/jobs)
 
-2023-06-11 09:58 [TCL](http://campus.tcl.com/post/details.html?post_code=103101)
+
 
 
 
@@ -498,7 +508,7 @@
 
 2023-04-04 10:24 [雅诗兰黛(无查询)](https://xyz.51job.com/External/MyResume/ResumeEnd.aspx?ctmid=e192c20e-c38d-4155-bf81-2ecf4b285380&css=%2f%2fimg03.51jobcdn.com%2fehireplus%2f2022%2fstyle%2fehireplus2009%2fcp%2finc%2f&CtmName=%e9%9b%85%e8%af%97%e5%85%b0%e9%bb%9b%e6%a0%a1%e5%9b%ad&resumeid=a0db3c6a-5220-40c6-8dfc-df15ea7a6557&jobid=5bc7dd78-d271-4162-848b-b662e525e79a,a89d8970-f7a1-4039-b82d-0757ccabd2f3&accountid=225076237&ismap3=False&prd=campus.51job.com&prp=&cd=xyz.51job.com&cp=&ruid=&backurl=&auid=&uuid=&partner=)
 
-2023-04-04 11:31 [比特大陆(无查询)](https://jobs.bitmain.com.cn/trainee)
+
 
 2023-04-04 14:37 [中国银行(无查询)](https://applyjob.chinahr.com/page/job/success?projectId=63f47e7255cbed088c78eed1)
 
@@ -610,7 +620,7 @@
 
 ######  💔💔💔已无半点机会💔💔💔
 
-2023-04-04 10:34 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
+
 
 2023-04-03 13:54 [(笔试挂，已无)拼多多](https://careers.pinduoduo.com/campus/personal-center)
 

@@ -12,6 +12,7 @@
 
 2023-04-05 08:50 [虎牙直播](https://app.mokahr.com/campus_apply/huya/4112#/candidateHome/applications)
 
+2023-04-19 11:50 [宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
 
 #### 没有合适的岗位
 
@@ -26,6 +27,10 @@
 2023-04-04 11:31 [比特大陆(无查询)](https://jobs.bitmain.com.cn/trainee)
 
 2023-04-03 21:38 [苏州空天院](https://zhaopin.aircas.ac.cn/system/userInfo/myDeliveryDetail?id=1630106494559182849)
+
+2023-04-09 20:08 [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/candidateHome/applications)
+
+2023-04-16 09:43 [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/candidateHome/applications)
 
 ### 已投递
 
@@ -50,6 +55,8 @@
 
 2023-04-04 10:34 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
 
+2023-04-03 16:26 [京东](https://campus.jd.com/#/myDeliver?type=internship)
+
 ###  其他收藏夹
 
 ####  大海投计划
@@ -63,8 +70,6 @@
 2023-04-04 10:59 [华为](https://career.huawei.com/reccampportal/portal5/user-index.html)
 
 2023-04-03 16:30 [百度](https://talent.baidu.com/jobs/center)
-
-2023-04-19 11:50 [宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
 
 2023-05-26 13:51 [奥克斯](https://auxgroup.zhiye.com/Portal/Apply/Index)
 
@@ -84,23 +89,13 @@
 
 2023-04-03 16:33 [360](https://360campus.zhiye.com/personal/deliveryRecord)
 
-2023-04-09 20:08 [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/candidateHome/applications)
-
-2023-04-03 16:26 [京东](https://campus.jd.com/#/myDeliver?type=internship)
-
 2023-04-04 09:03 [小红书](https://job.xiaohongshu.com/record/intern)
 
 2023-04-04 11:47 [旷视MEGVII](https://app.mokahr.com/campus-recruitment/megviihr/38642#/candidateHome/applications)
 
-
-
 2023-04-09 12:47 [MiniMax](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/application?token=MzsxNjc3MjMzNzU1MTA4OzcxNDI1ODYwNzk3MjY3OTY4Mjg7MA)
 
 2023-04-11 13:54 [锐捷网络](https://app.mokahr.com/campus_apply/ruijie/99942?code=051zPN100ieTtP1iE3200Ndw5Q2zPN1x&state=personalCenter#/candidateHome/applications)
-
-2023-04-16 09:43 [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/candidateHome/applications)
-
-2023-04-20 09:01 [良品铺子](https://lppz.zhiye.com/personal/deliveryRecord)
 
 2023-04-21 16:47 [文远知行WeRide](https://app.mokahr.com/campus_apply/jingchi/2137#/candidateHome/applications)
 
@@ -187,9 +182,6 @@
 2023-06-09 11:31 [日立新能源](https://hitachi-energy.tupu360.com/pageQrCode?targetUrl=a7f4739eb94ec9ef8fbde3ee7106d3bd2493b2ff907db59eb78ed3ee6a5773c13d54c7bcc224f17a485ae87bb9960a22611d459c41d37131d8d0639defffe5e49a1d5db20a51eb19e7563e524da76b3a6a605e509d032742)
 
 2023-06-11 08:39 [清华同衡](http://www.thupdi.com/jobs)
-
-
-
 
 
 #####  😅😅😅想躺平😅😅😅

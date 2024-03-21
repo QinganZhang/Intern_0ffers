@@ -10,6 +10,8 @@
 
 2023-04-09 12:31 [极智嘉](https://app.mokahr.com/campus_apply/geekplus/98039#/candidateHome/applications)
 
+2023-04-05 08:50 [虎牙直播](https://app.mokahr.com/campus_apply/huya/4112#/candidateHome/applications)
+
 
 #### 没有合适的岗位
 
@@ -22,6 +24,8 @@
 2023-04-13 14:06 [浪潮](https://inspur.hcmcloud.cn/recruit#/progress_detail?id=2585436)
 
 2023-04-04 11:31 [比特大陆(无查询)](https://jobs.bitmain.com.cn/trainee)
+
+2023-04-03 21:38 [苏州空天院](https://zhaopin.aircas.ac.cn/system/userInfo/myDeliveryDetail?id=1630106494559182849)
 
 ### 已投递
 
@@ -62,11 +66,7 @@
 
 2023-04-19 11:50 [宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
 
-2023-04-03 21:38 [苏州空天院](https://zhaopin.aircas.ac.cn/system/userInfo/myDeliveryDetail?id=1630106494559182849)
-
 2023-05-26 13:51 [奥克斯](https://auxgroup.zhiye.com/Portal/Apply/Index)
-
-
 
 2023-05-19 16:07 [中电福富](http://zhaopin.ffcs.cn:6688/recruitment/frontend-client/index.html#/my-position)
 
@@ -92,7 +92,7 @@
 
 2023-04-04 11:47 [旷视MEGVII](https://app.mokahr.com/campus-recruitment/megviihr/38642#/candidateHome/applications)
 
-2023-04-05 08:50 [虎牙直播](https://app.mokahr.com/campus_apply/huya/4112#/candidateHome/applications)
+
 
 2023-04-09 12:47 [MiniMax](https://vrfi1sk8a0.jobs.feishu.cn/referral/position/application?token=MzsxNjc3MjMzNzU1MTA4OzcxNDI1ODYwNzk3MjY3OTY4Mjg7MA)
 

@@ -16,9 +16,9 @@
 
 #### 没有合适的岗位
 
-2023-04-04 15:13 [贝壳](https://ke.zhiye.com/Portal/Apply/Index) 
+2024-03-22 [贝壳](https://ke.zhiye.com/Portal/Apply/Index) 
 
-2023-04-04 14:18 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/account.html#/myDeliver)
+2024-03-22 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/account.html#/myDeliver)
 
 2023-04-04 10:44 [顺丰](https://campus.sf-express.com/#/personalCenter)
 
@@ -32,30 +32,70 @@
 
 2023-04-16 09:43 [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/candidateHome/applications)
 
+2024-03-22 [联想](https://talent.lenovo.com.cn/trainee)
+
+2025-03-25 [招商银行](https://cmbntjob.cmbchina.com/pages/schoolRecruit/index.html)
+
+2025-03-25 [淘天集团](https://talent.taotian.com/campus/home)
+
+2025-03-25 [饿了么](https://talent.ele.me/campus/position-list?campusType=internship&lang=zh)
+
+2025-03-25 [亚信科技](https://campus.51job.com/asiainfo/jobs_trainee.html)
+
+2025-03-25
+
+2025-03-25
+
+2025-03-25
+
+2025-03-25
+
 ### 已投递
 
-2023-04-04 08:54 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications) 3.21投递
+#### 较为对口
 
-2023-04-03 14:04 [小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
+2024-03-22 [思谋科技](https://app.mokahr.com/campus-recruitment/smartmore/46221#/candidateHome/applications)
+
+2024-03-22 [网易](https://hr.163.com/job-list.html?workType=1) 
+
+2024-03-22 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
+
+2024-03-22 [小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
 内推：https://bbs.byr.cn/#!article/ParttimeJob/960829
 
-2023-06-11 09:58 [TCL](http://campus.tcl.com/post/details.html?post_code=103101)
+2024-03-25 [蔚来](https://nio.jobs.feishu.cn/intern/)
 
-2023-04-09 12:35 [第四范式](https://app.mokahr.com/campus-recruitment/4paradigm/58145?edit=1&hireMode=2#/candidateHome/applications) 
+2024-03-25 [地平线](https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=65f198d01eb80541009b9c85&postType=campus)
 
-2023-04-04 21:56 [思谋科技](https://app.mokahr.com/campus-recruitment/smartmore/46221#/candidateHome/applications)
+2024-03-25 [快手](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?positionNatureCode=intern)
 
-2024-03-21 23:32 [网易](https://hr.163.com/job-list.html?workType=1) 
+2024-03-25 [OPPO](https://careers.oppo.com/university/oppo/campus/post)
 
-2023-04-21 16:54 [新大陆](https://nlscan.zhiye.com/Portal/Apply/Index)
+#### 略微相关，海投
+2024-03-22 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)
 
-2023-04-14 15:33 [莉莉丝](https://lilithgames.jobs.feishu.cn/intern/position)
+2024-03-22 [TCL](http://campus.tcl.com/post/details.html?post_code=103101)
 
-2023-04-05 22:01 [CVTE视源](https://careers.cvte.com/zone/resume/applications)
+2024-03-22 [第四范式](https://app.mokahr.com/campus-recruitment/4paradigm/58145?edit=1&hireMode=2#/candidateHome/applications) 
 
-2023-04-04 10:34 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
+2024-03-22 [新大陆](https://nlscan.zhiye.com/Portal/Apply/Index)
 
-2023-04-03 16:26 [京东](https://campus.jd.com/#/myDeliver?type=internship)
+2024-03-22 [莉莉丝](https://lilithgames.jobs.feishu.cn/intern/position)
+
+2024-03-22 [CVTE视源](https://careers.cvte.com/zone/resume/applications)
+
+2024-03-22 [京东](https://campus.jd.com/#/myDeliver?type=internship)
+
+
+
+2024-03-25
+
+2024-03-25
+
+2024-03-25
+
+2024-03-25
+
 
 ###  其他收藏夹
 

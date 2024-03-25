@@ -42,7 +42,11 @@
 
 2025-03-25 [亚信科技](https://campus.51job.com/asiainfo/jobs_trainee.html)
 
-2025-03-25
+2025-03-25 [奥克斯](https://auxgroup.zhiye.com/Portal/Apply/Index)
+
+2023-04-22 10:34 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/account.html#/myDeliver)
+
+2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
 
 2025-03-25
 
@@ -72,6 +76,7 @@
 2024-03-25 [OPPO](https://careers.oppo.com/university/oppo/campus/post)
 
 #### 略微相关，海投
+
 2024-03-22 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)
 
 2024-03-22 [TCL](http://campus.tcl.com/post/details.html?post_code=103101)
@@ -86,9 +91,9 @@
 
 2024-03-22 [京东](https://campus.jd.com/#/myDeliver?type=internship)
 
+2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
 
-
-2024-03-25
+2024-03-25 
 
 2024-03-25
 
@@ -103,29 +108,17 @@
 
 #####  😀😀😀有进度😀😀😀
 
-2023-06-05 14:36 [埃科光电 内推：XDCRL016](http://career.i-tek.cn/front.user.user/userCenter)
-
 2023-04-03 13:35 [腾讯](https://join.qq.com/progress.html)
 
 2023-04-04 10:59 [华为](https://career.huawei.com/reccampportal/portal5/user-index.html)
 
 2023-04-03 16:30 [百度](https://talent.baidu.com/jobs/center)
 
-2023-05-26 13:51 [奥克斯](https://auxgroup.zhiye.com/Portal/Apply/Index)
-
 2023-05-19 16:07 [中电福富](http://zhaopin.ffcs.cn:6688/recruitment/frontend-client/index.html#/my-position)
-
-2023-04-22 10:34 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/account.html#/myDeliver)
-
-
 
 #####  🙃🙃🙃简历筛🙃🙃🙃
 
 2023-04-29 09:45 [奇安信](https://app.mokahr.com/campus_apply/qianxin/29182?recommendCode=DSjdXX1F#/candidateHome/applications)
-
-2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
-
-2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
 
 2023-04-03 16:33 [360](https://360campus.zhiye.com/personal/deliveryRecord)
 

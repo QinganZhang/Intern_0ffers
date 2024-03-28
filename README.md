@@ -73,6 +73,8 @@
 
 2024-03-25 [OPPO](https://careers.oppo.com/university/oppo/campus/post)
 
+03-28 [合合信息](https://intsig.zhiye.com/intern/jobs)
+
 #### 略微相关，海投
 
 2024-03-22 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)

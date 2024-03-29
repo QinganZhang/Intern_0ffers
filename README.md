@@ -19,8 +19,6 @@
 
 ### 没有合适的岗位
 
-2024-03-22 [贝壳](https://ke.zhiye.com/Portal/Apply/Index) 
-
 2024-03-22 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/account.html#/myDeliver)
 
 2023-04-04 10:44 [顺丰](https://campus.sf-express.com/#/personalCenter)
@@ -51,6 +49,7 @@
 
 2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
 
+太多了
 
 ### 已投递
 
@@ -75,6 +74,49 @@
 
 03-28 [合合信息](https://intsig.zhiye.com/intern/jobs)
 
+03-29 [蚂蚁](https://talent.antgroup.com/campus-position?positionId=24030500507543)
+
+03-28 [小鹏汽车](https://xiaopeng.jobs.feishu.cn/campus/position/application)
+
+03-28 [理想](https://www.lixiang.com/employ/detail/8377.html?fromJob=1)
+
+03-28 [字节AML](https://jobs.bytedance.com/campus/position/application?referral_code=BRHJTMX)
+
+03-28 [燧原科技](https://app.mokahr.com/campus_apply/enflame/69993#/)
+
+03-28 [百度](https://talent.baidu.com/jobs/center)
+
+03-28 [商汤](https://hr.sensetime.com/SU60fa3bdabef57c1023fc1cbc/pb/posDetail.html?postId=654e52291c240e66c642a406&postType=intern)
+
+03-28 [旷视](https://app.mokahr.com/campus_apply/megviihr/38642#/)
+
+03-28 [bilibili](https://jobs.bilibili.com/campus/positions/18487)
+
+03-28 [小红书](https://job.xiaohongshu.com/jobs/9685/intern)
+
+03-25 [美团](https://zhaopin.meituan.com/web/position/detail?jobUnionId=2309593665&jobShareType=1&highlightType=campus)
+
+03-28 [高德地图](https://talent.amap.com/campus/position-detail?lang=zh&positionId=39900000707)
+
+03-28 [美的](https://careers.midea.com/schoolOut/apply)
+
+03-28 [原粒](https://calculet.jobs.feishu.cn/index/position/7311263052794628402/detail)
+
+03-28 [沐曦](https://recruitment.metax-tech.com/campus-recruitment/metax-tech/58131#/job/c78ef9d9-4709-4f2f-b2ce-af35c2a19a81)
+
+03-28 [燧原科技](https://www.enflame-tech.com/careers#careers1)
+
+03-25 [菜鸟](https://cn-jobs.cainiao.com/campus/position-detail?lang=zh&positionId=30002027401)
+
+03-25 [oppo](https://careers.oppo.com/university/oppo/center/history)
+
+03-26 [拼多多](https://careers.pinduoduo.com/campus/personal-center)
+
+03-26 [QQ](https://join.qq.com/progress.html)
+
+03-29 [vivo](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true)https://app.mokahr.com/apply/microfunhr/75944#/job/1f3b63d3-63cc-4f36-a703-695828ff2687/apply?&isRecommendation=false
+
+
 #### 略微相关，海投
 
 2024-03-22 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)
@@ -93,13 +135,34 @@
 
 2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
 
-2024-03-25 
+2024-03-29 [58同城](https://campus.58.com/campus/jobs)
 
-2024-03-25
+2024-03-29 [爱橙科技](https://talent-holding.alibaba.com/campus/position-detail?lang=zh&positionId=2031801)
 
-2024-03-25
+2024-03-25 [钉钉](https://talent.dingtalk.com/campus/position-detail?lang=zh&positionId=2030605)
+ 
+2024-03-28 阿里
 
-2024-03-25
+03-38 阿里云
+
+03-28 淘天
+
+03-28 阿里国际
+
+03-28 饿了么
+
+03-28 腾讯音乐
+
+03-28 360
+
+03-28 腾讯云智
+
+03-28 禾赛科技
+
+03-28 momenta
+
+03-29 中望软件
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 

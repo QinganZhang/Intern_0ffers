@@ -114,7 +114,7 @@
 
 03-26 [QQ](https://join.qq.com/progress.html)
 
-03-29 [vivo](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true)https://app.mokahr.com/apply/microfunhr/75944#/job/1f3b63d3-63cc-4f36-a703-695828ff2687/apply?&isRecommendation=false
+03-29 [vivo](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true)
 
 
 #### 略微相关，海投

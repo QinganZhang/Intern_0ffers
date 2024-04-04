@@ -1,56 +1,5 @@
 ##  README
 
-### 待投递
-
-
-### 未开启
-
-2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery) 五月开启
-
-2023-04-05 09:20 [知乎](https://app.mokahr.com/campus-recruitment/zhihu/68321#/candidateHome/applications)
-
-2023-04-19 11:36 [三一集团](http://sanycampus.zhiye.com/Portal/Apply/Index)
-
-2023-04-09 12:31 [极智嘉](https://app.mokahr.com/campus_apply/geekplus/98039#/candidateHome/applications)
-
-2023-04-05 08:50 [虎牙直播](https://app.mokahr.com/campus_apply/huya/4112#/candidateHome/applications)
-
-2023-04-19 11:50 [宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
-
-### 没有合适的岗位
-
-2024-03-22 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/account.html#/myDeliver)
-
-2023-04-04 10:44 [顺丰](https://campus.sf-express.com/#/personalCenter)
-
-2023-04-13 14:06 [浪潮](https://inspur.hcmcloud.cn/recruit#/progress_detail?id=2585436)
-
-2023-04-04 11:31 [比特大陆(无查询)](https://jobs.bitmain.com.cn/trainee)
-
-2023-04-03 21:38 [苏州空天院](https://zhaopin.aircas.ac.cn/system/userInfo/myDeliveryDetail?id=1630106494559182849)
-
-2023-04-09 20:08 [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/candidateHome/applications)
-
-2023-04-16 09:43 [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/candidateHome/applications)
-
-2024-03-22 [联想](https://talent.lenovo.com.cn/trainee)
-
-2025-03-25 [招商银行](https://cmbntjob.cmbchina.com/pages/schoolRecruit/index.html)
-
-2025-03-25 [淘天集团](https://talent.taotian.com/campus/home)
-
-2025-03-25 [饿了么](https://talent.ele.me/campus/position-list?campusType=internship&lang=zh)
-
-2025-03-25 [亚信科技](https://campus.51job.com/asiainfo/jobs_trainee.html)
-
-2025-03-25 [奥克斯](https://auxgroup.zhiye.com/Portal/Apply/Index)
-
-2023-04-22 10:34 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/account.html#/myDeliver)
-
-2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
-
-太多了
-
 ### 已投递
 
 #### 较为对口
@@ -197,11 +146,53 @@
 
 04-04 慧知连
 
-
+04-04 三一集团
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ###  其他收藏夹
+
+2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery) 五月开启
+
+2023-04-05 09:20 [知乎](https://app.mokahr.com/campus-recruitment/zhihu/68321#/candidateHome/applications)
+
+2023-04-19 11:36 [三一集团](http://sanycampus.zhiye.com/Portal/Apply/Index)
+
+2023-04-09 12:31 [极智嘉](https://app.mokahr.com/campus_apply/geekplus/98039#/candidateHome/applications)
+
+2023-04-05 08:50 [虎牙直播](https://app.mokahr.com/campus_apply/huya/4112#/candidateHome/applications)
+
+2023-04-19 11:50 [宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
+
+2024-03-22 [ATL新能源](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/account.html#/myDeliver)
+
+2023-04-04 10:44 [顺丰](https://campus.sf-express.com/#/personalCenter)
+
+2023-04-13 14:06 [浪潮](https://inspur.hcmcloud.cn/recruit#/progress_detail?id=2585436)
+
+2023-04-04 11:31 [比特大陆(无查询)](https://jobs.bitmain.com.cn/trainee)
+
+2023-04-03 21:38 [苏州空天院](https://zhaopin.aircas.ac.cn/system/userInfo/myDeliveryDetail?id=1630106494559182849)
+
+2023-04-09 20:08 [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/candidateHome/applications)
+
+2023-04-16 09:43 [搜狐畅游](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/candidateHome/applications)
+
+2024-03-22 [联想](https://talent.lenovo.com.cn/trainee)
+
+2025-03-25 [招商银行](https://cmbntjob.cmbchina.com/pages/schoolRecruit/index.html)
+
+2025-03-25 [淘天集团](https://talent.taotian.com/campus/home)
+
+2025-03-25 [饿了么](https://talent.ele.me/campus/position-list?campusType=internship&lang=zh)
+
+2025-03-25 [亚信科技](https://campus.51job.com/asiainfo/jobs_trainee.html)
+
+2025-03-25 [奥克斯](https://auxgroup.zhiye.com/Portal/Apply/Index)
+
+2023-04-22 10:34 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/account.html#/myDeliver)
+
+2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
 
 ####  大海投计划
 

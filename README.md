@@ -116,6 +116,18 @@
 
 03-29 [vivo](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true)
 
+03-31 中国电信
+
+03-31 联想
+
+03-31 中国移动
+
+03-31 大疆
+
+03-31 智加科技
+
+03-31 51world
+
 
 #### 略微相关，海投
 
@@ -133,25 +145,25 @@
 
 2024-03-22 [京东](https://campus.jd.com/#/myDeliver?type=internship)
 
-2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
-
 2024-03-29 [58同城](https://campus.58.com/campus/jobs)
 
 2024-03-29 [爱橙科技](https://talent-holding.alibaba.com/campus/position-detail?lang=zh&positionId=2031801)
-
-2024-03-25 [钉钉](https://talent.dingtalk.com/campus/position-detail?lang=zh&positionId=2030605)
  
-2024-03-28 阿里
+03-31 钉钉
 
-03-38 阿里云
+03-31 阿里控股
 
-03-28 淘天
+03-31 阿里云
 
-03-28 阿里国际
+03-31 淘天
 
-03-28 饿了么
+03-31 饿了么
 
-03-28 腾讯音乐
+03-31 阿里国际
+
+03-31 通义实验室
+
+03-31 腾讯音乐
 
 03-28 360
 
@@ -166,6 +178,20 @@
 03-31 [深信服](https://hr.sangfor.com/campucompon/Delivery/3999)
 
 03-31 [万得](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html?positionType=9002)
+
+03-31 贝壳找房
+
+03-31 联发科
+
+03-31 虹科
+
+03-31 爱奇艺
+
+03-31 海信
+
+03-31 海尔
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 

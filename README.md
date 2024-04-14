@@ -11,7 +11,6 @@
 2024-03-22 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
 
 2024-03-22 [小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
-内推：https://bbs.byr.cn/#!article/ParttimeJob/960829
 
 2024-03-25 [蔚来](https://nio.jobs.feishu.cn/intern/)
 
@@ -77,9 +76,13 @@
 
 03-31 51world
 
-04-04 作业帮（但是是社招岗位）
+04-04 作业帮
 
 03-28 无问芯穹
+
+04-14 高通
+
+04-14 [网易有道](https://hr.youdao.com/intern/practise_list.php?t1=intern&positionId=868&type=%E7%A0%94%E5%8F%91%E7%B1%BB)
 
 
 #### 略微相关，海投
@@ -126,7 +129,7 @@
 
 03-28 momenta
 
-03-29 中望软件
+03-29 [中望软件](https://app.mokahr.com/campus-recruitment/zwcad/91960#/candidateHome/applications)
 
 03-31 [深信服](https://hr.sangfor.com/campucompon/Delivery/3999)
 
@@ -151,6 +154,34 @@
 04-04 三一集团
 
 04-05 比亚迪
+
+04-11 [智能信息](https://talent.quark.cn/campus/position-list?campusType=internship&lang=zh)
+
+04-11 [寒武纪](https://app.mokahr.com/campus-recruitment/cambricon/44201#/jobs?project=100008669)
+
+04-11 [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/job/aab4ae4e-4ac1-40f5-b078-645f87005c64)
+
+04-15 [算能科技](https://jobs.sophgo.com/jobDetails?id=38bb111a-753c-467c-a560-41c52cd3ad33&module=trainee)
+
+04-15 [景嘉微](https://jingjiamicro1.zhiye.com/intern/detail?jobAdId=489ab979-4290-41b1-8ac7-90d9f9269284)
+
+04-15 [太初](https://app.mokahr.com/campus-recruitment/tecorigin/47402#/job/bef38e59-15be-410e-924b-873a61189d30)
+
+04-15 [猿辅导](https://app.mokahr.com/social-recruitment/fenbi/45505#/job/898e5cc9-a0f2-4aa1-a5a8-913a5b85b8b6)
+
+04-15 [零跑汽车](https://leapmotor.zhiye.com/intern/detail?jobAdId=1a80e174-3b1f-4a62-b3ff-4fb3a5f788d3)
+
+04-15 [吉利汽车](https://campus.geely.com/?sourceToken=d5761ca02dab7aa7fe53d2211f5b6bc3#/job/c243c2e2-9ec4-459b-899b-262b991cb53e)
+
+04-15 [小马智行](https://ponyai.jobs.feishu.cn/ponycampus/position/7356866994827741449/detail)
+
+04-15 [拓竹](https://bambulab.jobs.feishu.cn/campus/position/7356829262333430035/detail)
+
+04-15 [招联](https://mucfc.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/posDetail.html?postId=6611fc451eb80533720646a4&postType=intern)
+
+04-15 [深开鸿](https://www.kaihong.com/aboutUs/detail?id=398)
+
+04-15 [荣耀](https://career.honor.com/SU61b9b9992f9d24431f5050a5/pb/posDetail.html?postId=6618ec291eb8053acd5f83a7&postType=intern)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -626,8 +657,6 @@
 2023-04-16 09:01 [三一重能](https://www.wjx.top/wjx/join/completemobile2.aspx?activityid=rX91ErL&joinactivity=117419445221&sojumpindex=127&anst=BcE8H4ES14%2foIoRgNrZDMOJ4HPeFEI7N&comsign=B8E0EF8933B45545E642CB7E1FA243FC01255815&ge=1&educ=5)
 
 2023-04-04 10:24 [雅诗兰黛(无查询)](https://xyz.51job.com/External/MyResume/ResumeEnd.aspx?ctmid=e192c20e-c38d-4155-bf81-2ecf4b285380&css=%2f%2fimg03.51jobcdn.com%2fehireplus%2f2022%2fstyle%2fehireplus2009%2fcp%2finc%2f&CtmName=%e9%9b%85%e8%af%97%e5%85%b0%e9%bb%9b%e6%a0%a1%e5%9b%ad&resumeid=a0db3c6a-5220-40c6-8dfc-df15ea7a6557&jobid=5bc7dd78-d271-4162-848b-b662e525e79a,a89d8970-f7a1-4039-b82d-0757ccabd2f3&accountid=225076237&ismap3=False&prd=campus.51job.com&prp=&cd=xyz.51job.com&cp=&ruid=&backurl=&auid=&uuid=&partner=)
-
-
 
 2023-04-04 14:37 [中国银行(无查询)](https://applyjob.chinahr.com/page/job/success?projectId=63f47e7255cbed088c78eed1)
 

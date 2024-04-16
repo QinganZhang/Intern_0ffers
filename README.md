@@ -183,6 +183,8 @@
 
 04-15 [荣耀](https://career.honor.com/SU61b9b9992f9d24431f5050a5/pb/posDetail.html?postId=6618ec291eb8053acd5f83a7&postType=intern)
 
+04-16 [OBSBOT寻影](https://mp.weixin.qq.com/s/6c2N02TcZ7wDiN0IfChMtg)
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 ###  其他收藏夹

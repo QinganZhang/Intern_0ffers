@@ -185,6 +185,12 @@
 
 04-16 [OBSBOT寻影](https://mp.weixin.qq.com/s/6c2N02TcZ7wDiN0IfChMtg)
 
+04-17 [Minmax](https://vrfi1sk8a0.jobs.feishu.cn/referral/campus/position/7352868510085712178/detail?token=MzsxNjc3MjMzNzU1MTA4OzcxNDI1ODYwNzk3MjY3OTY4Mjg7MA)
+
+04-17 [嘉楠科技](https://canaan-creative.zhiye.com/springInternxq?jobId=560976673)
+
+04-17 [超聚变](https://wecruit.hotjob.cn/SU613445ec2f9d245c993b8c1b/pb/posDetail.html?postId=65fa43cb1eb8054100aed45c&postType=intern)
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 ###  其他收藏夹
